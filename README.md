@@ -1,2 +1,1 @@
-# lab Digital Image Processing
-For academic work practice only
+# lab Digital Image Processing.
